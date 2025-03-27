@@ -54,7 +54,7 @@ const Page = () => {
             />
           ))}
         </div>
-        <Link href='/' className='block w-fit mx-auto mb-4'>
+        <Link href='https://github.com/tiendat2204/StickerAnimation' className='block w-fit mx-auto mb-4'>
           <button className='px-2 w-fit mx-auto py-1 h-10 bg-black text-white rounded-xl'>
             Source code
           </button>
