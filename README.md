@@ -7,8 +7,8 @@ This project provides sticker animation loop images for display in applications.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/sticker-animation.git
-   cd sticker-animation
+   git clone https://github.com/tiendat2204/StickerAnimation.git
+   cd StickerAnimation
    ```
 2. Install packages:
    ```sh
